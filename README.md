@@ -40,3 +40,15 @@ python generate_address.py
 Alternatively, if you prefer using Docker, you can build and run the container as follows:
 docker build -t bitcoin-address-generator .
 docker run bitcoin-address-generator
+
+
+
+[![YouTube Video](https://img.youtube.com/vi/jwzZEI43c_M/0.jpg)](https://youtu.be/jwzZEI43c_M)
+
+[![YouTube Video](https://img.youtube.com/vi/C7_kObP1MOE/0.jpg)](https://www.youtube.com/watch?v=C7_kObP1MOE)
+
+[![YouTube Video](https://i3.ytimg.com/vi/lWY_tPMfNW0/hqdefault.jpg)](https://www.youtube.com/watch?v=lWY_tPMfNW0)
+
+
+
+
