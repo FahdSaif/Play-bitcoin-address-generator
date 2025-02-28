@@ -42,10 +42,15 @@ docker build -t bitcoin-address-generator .
 docker run bitcoin-address-generator
 
 
+💡 Watch the Explained Video 🎬  
 
 [![YouTube Video](https://img.youtube.com/vi/jwzZEI43c_M/0.jpg)](https://youtu.be/jwzZEI43c_M)
 
+💡 Watch the Explained Video 🎬   
+
 [![YouTube Video](https://img.youtube.com/vi/C7_kObP1MOE/0.jpg)](https://www.youtube.com/watch?v=C7_kObP1MOE)
+
+💡 Watch the Explained Video 🎬  
 
 [![YouTube Video](https://i3.ytimg.com/vi/lWY_tPMfNW0/hqdefault.jpg)](https://www.youtube.com/watch?v=lWY_tPMfNW0)
 
