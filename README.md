@@ -1,4 +1,4 @@
-# Bitcoin Address Generator(▶️ Watch the Video)
+# Bitcoin Address Generator(▶️ Watch the Videos in action)
 
 ## Overview
 
